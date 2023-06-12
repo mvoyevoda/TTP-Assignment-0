@@ -2,7 +2,7 @@
 * 01-titleCaseEdit
 * 02-subtractFive
 * 03-cutInHalfAndFloor
-----------mmmmmm
+
 * 04-countOfAllBooleans
 * 05-countOfAllBooleansAndStrings
 * 06-countOfAllNumbersSmallerThanTarget
