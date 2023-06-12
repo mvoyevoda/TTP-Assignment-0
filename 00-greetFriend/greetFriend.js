@@ -1,5 +1,6 @@
 function greetFriend(name) {
-  // Insert code here;
+  if (typeof name === "string")
+    return "Hello, " + name + "!"
 }
 
 // Do not edit this line;
