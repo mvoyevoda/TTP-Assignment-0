@@ -1,5 +1,10 @@
 function sumOfAllOddNumbers(nums) {
-  // Insert code here;
+  let c = 0
+  for (const e of nums){
+    if (e % 2 !== 0)
+      c++
+  }
+  return c
 }
 
 // Do not edit this line;

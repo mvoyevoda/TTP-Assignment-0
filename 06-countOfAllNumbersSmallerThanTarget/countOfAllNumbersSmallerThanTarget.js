@@ -1,5 +1,10 @@
 function countOfAllNumbersSmallerThanTarget(nums, target) {
-  // Insert code here;
+  let c = 0
+  for (const e of nums){
+    if (typeof e === "number" && e < target)
+      c++
+  }
+  return c
 }
 
 // Do not edit this line;
